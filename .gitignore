@@ -1,0 +1,6 @@
+# Ignorar archivos de configuración de Xcode
+.DS_Store
+**/xcuserdata/
+
+# Ignorar archivos específicos del proyecto Xcode
+RetosSwiftUI/RetosSwiftUI.xcodeproj/project.xcworkspace/xcuserdata/josebayon.xcuserdatad/UserInterfaceState.xcuserstate

@@ -7,6 +7,8 @@
 
 //Crea un juego donde el usuario tiene que adivinar un número aleatorio entre 1 y 100.
 
+//PERRRRROOOOOOOOOO
+
 import SwiftUI
 
 struct GuessNumber: View {

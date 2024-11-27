@@ -21,7 +21,8 @@ struct ToDoList: View {
     var body: some View {
         NavigationView {
             HStack {
-                List { //Agrego una lista y recorro con un ForEach el array de las tareas, y en el Texto, muestra las tareas
+                List { //Agrego una lista y recorro con un ForEach el array de las tareas, y en el Texto, muestra las tareas. el task segundo esta en minuscula porque hace referencia a cada elemento de la coleccion
+                    
                     ForEach(tasks, id: \.self) { task in
                         Text(task)
                             

@@ -1,4 +1,4 @@
-# Ignorar archivos específicos
+# Ignorar archivos de macOS
 .DS_Store
 
 # Ignorar carpetas generadas por Xcode

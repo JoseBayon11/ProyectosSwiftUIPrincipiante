@@ -1,0 +1,12 @@
+# Ignorar archivos específicos
+.DS_Store
+
+# Ignorar carpetas generadas por Xcode
+build/
+DerivedData/
+
+# Ignorar carpetas de usuario
+xcuserdata/
+
+# Ignorar otros archivos innecesarios
+*.xcuserstate
